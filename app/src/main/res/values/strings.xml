@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Razor Paytm Icici</string>
+    <string name="app_name">RazorPay</string>
     <string name="enter_email_address">Email address</string>
     <string name="example_com">example@gmail.com</string>
     <string name="enter_contact_number">Contact number</string>
